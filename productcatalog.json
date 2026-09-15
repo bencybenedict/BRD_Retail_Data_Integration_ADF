@@ -1,107 +1,107 @@
 [
   {
-    "ProductID": 501,
+    "ProductID": 1,
     "Title": "Wireless Headphones",
     "Category": "Electronics",
-    "Price": 499.00,
+    "Price": 499.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 502,
+    "ProductID": 2,
     "Title": "Smart Watch",
     "Category": "Electronics",
-    "Price": 899.00,
+    "Price": 899.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 503,
+    "ProductID": 3,
     "Title": "USB Cable",
     "Category": "Accessories",
-    "Price": 199.00,
+    "Price": 199.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 504,
+    "ProductID": 4,
     "Title": "Bluetooth Speaker",
     "Category": "Electronics",
-    "Price": 1299.00,
+    "Price": 1299.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 505,
+    "ProductID": 5,
     "Title": "Running Shoes",
     "Category": "Footwear",
-    "Price": 749.00,
+    "Price": 749.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 506,
+    "ProductID": 6,
     "Title": "Laptop Backpack",
     "Category": "Bags",
-    "Price": 1599.00,
+    "Price": 1599.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 507,
+    "ProductID": 7,
     "Title": "Wireless Mouse",
     "Category": "Computer Accessories",
-    "Price": 299.00,
+    "Price": 299.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 508,
+    "ProductID": 8,
     "Title": "Power Bank",
     "Category": "Electronics",
-    "Price": 649.00,
+    "Price": 649.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 509,
+    "ProductID": 9,
     "Title": "Smartphone",
     "Category": "Electronics",
-    "Price": 2499.00,
+    "Price": 2499.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 510,
+    "ProductID": 10,
     "Title": "Cotton T Shirt",
     "Category": "Clothing",
-    "Price": 399.00,
+    "Price": 399.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 511,
+    "ProductID": 11,
     "Title": "Office Chair",
     "Category": "Furniture",
-    "Price": 999.00,
+    "Price": 999.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 512,
+    "ProductID": 12,
     "Title": "Mechanical Keyboard",
     "Category": "Computer Accessories",
-    "Price": 1799.00,
+    "Price": 1799.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 513,
+    "ProductID": 13,
     "Title": "Notebook",
     "Category": "Stationery",
-    "Price": 149.00,
+    "Price": 149.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 514,
+    "ProductID": 14,
     "Title": "Travel Bag",
     "Category": "Bags",
-    "Price": 899.00,
+    "Price": 899.0,
     "LastModified": "2026-01-01T08:00:00"
   },
   {
-    "ProductID": 515,
+    "ProductID": 15,
     "Title": "Water Bottle",
     "Category": "Home & Kitchen",
-    "Price": 599.00,
+    "Price": 599.0,
     "LastModified": "2026-01-01T08:00:00"
   }
 ]
